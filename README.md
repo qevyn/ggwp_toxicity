@@ -22,7 +22,14 @@ The associated jupyter notebooks have a chronological order, mapping the thought
     - Applying word embeddings to the initial model
       - Finding the proper word vector corpus
       - Applying word embeddings to the model, first with a normal average
-      - Applying word embeddings to the model with a weighted average, the weights being from Tfidf
+      - Applying word embeddings to the model with a weighted average, the weights being from Tfidf    
+6) **ggwp8_final_model.ipynb
 
 ### Insights on Toxic Behavior/Players
-6) **ggwp6_...**: ...
+7) **ggwp6_thresholds_cleaning**
+    - Label thresholds and cleaning of common false positives
+8) **ggwp7_insights**
+    - Using sentence-transformers to find natural clusters of toxic messages
+    - Segmenting time, finding trends across labels
+        - Every 5 minutes
+        - Pre-, early, mid, late game
