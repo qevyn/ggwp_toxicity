@@ -23,7 +23,7 @@ The associated jupyter notebooks have a chronological order, mapping the thought
       - Finding the proper word vector corpus
       - Applying word embeddings to the model, first with a normal average
       - Applying word embeddings to the model with a weighted average, the weights being from Tfidf    
-6) **ggwp8_final_model.ipynb
+6) **ggwp8_final_model.ipynb**
 
 ### Insights on Toxic Behavior/Players
 7) **ggwp6_thresholds_cleaning**
